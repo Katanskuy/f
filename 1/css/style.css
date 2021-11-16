@@ -1,0 +1,25 @@
+h1 {
+    color: linear-gradient(to right, rgb(180,221,180) 0%,rgb(131,199,131) 17%,rgb(82,177,82) 33%,rgb(0,138,0) 67%,rgb(0,87,0) 83%,rgb(0,36,0) 100%);
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+p{
+font-family: "Comic Sans MS", "Comic Sans", cursive;
+text-align: center;
+}
+li{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+}
+h2{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+}
+
+body{
+    background: linear-gradient(to right, rgb(180,221,180) 0%,rgb(131,199,131) 17%,rgb(82,177,82) 33%,rgb(0,138,0) 67%,rgb(0,87,0) 83%,rgb(0,36,0) 100%);
+}
+.center-img {
+    display: block;
+    margin: 0 auto;
+  }
